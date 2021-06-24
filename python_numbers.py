@@ -1,16 +1,16 @@
-#Basic
+# Basic
 print(2+1)
 print(2-1)
 print(2*2)
 print(3/2)
-#Mod - remainer
-print(7/4)
-print(7%4)
+# Mod - remainer
+print(7 / 4)
+print(7 % 4)
 print(50 % 5)
-print(23 %2)
+print(23 % 2)
 print(20 % 2)
-#Powers
-print(2 **3)
-#Basic order * before +
+# Powers
+print(2 ** 3)
+# Basic order * before +
 print(2+10*10+3)
 print((2+10)*(10+3))
